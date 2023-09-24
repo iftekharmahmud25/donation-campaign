@@ -1,0 +1,137 @@
+[
+    {
+      "category": "health",
+      "title": "Digital Blood Pressure Monitor",
+      "picture": "https://i.ibb.co/x8xhbCD/digital-bload.jpg",
+      "categoryBackground": "#0052FFFF",
+      "cardBackground": "#0052FFFF",
+      "textColor": "#0052FF",
+      "buttonBackground": "#0052FFFF",
+      "description": "Track your blood pressure with this easy-to-use digital monitor. Stay healthy and monitor your heart health regularly.",
+      "price": 29.99
+    },
+    {
+      "category": "health",
+      "title": "Fitness Tracker Watch",
+      "picture": "https://i.ibb.co/DbYTPKF/watch.jpg",
+      "categoryBackground": "#0052FFFF",
+      "cardBackground": "#0052FFFF",
+      "textColor": "#0052FF",
+      "buttonBackground": "#0052FFFF",
+      "description": "Stay active and monitor your fitness goals with this sleek fitness tracker watch. It counts steps, measures heart rate, and more.",
+      "price": 49.99
+    },
+    {
+      "category": "education",
+      "title": "Educational Building Blocks",
+      "picture": "https://i.ibb.co/yXvkPLD/Education.png",
+      "categoryBackground": "#FF4433",
+      "cardBackground": "#FF4433",
+      "textColor": " #FF444A",
+      "buttonBackground": "#FF4433",
+      "description": "Enhance your child's learning with these colorful educational building blocks. Perfect for creative play and learning.",
+      "price": 19.99
+    },
+    {
+      "category": "education",
+      "title": "Laptop for Online Learning",
+      "picture": "https://i.ibb.co/6w592Kh/laptop.jpg",
+      "categoryBackground": "#FF4433",
+      "cardBackground": "#FF4433",
+      "textColor": "#FF444A",
+      "buttonBackground": "#FF4433",
+      "description": "Equip your student with the tools they need for online learning. This laptop is perfect for virtual classrooms.",
+      "price": 399.99
+    },
+    {
+      "category": "clothing",
+      "title": "Men's Casual T-Shirt",
+      "picture": "https://i.ibb.co/Zz41Hh2/Clothing.png",
+      "categoryBackground": "#FFC300",
+      "cardBackground": "#FFC300",
+      "textColor": "#79C23F",
+      "buttonBackground": "#FFC300",
+      "description": "Stay comfortable and stylish with this classic men's casual t-shirt. Available in various colors and sizes.",
+      "price": 14.99
+    },
+    {
+      "category": "clothing",
+      "title": "Women's Floral Dress",
+      "picture": "https://i.ibb.co/cbhKYVs/coloth.jpg",
+      "categoryBackground": "#FFC300",
+      "cardBackground": "#FFC300",
+      "textColor": "#333333",
+      "buttonBackground": "#FFC300",
+      "description": "Elevate your wardrobe with this beautiful floral dress. Perfect for special occasions and summer days.",
+      "price": 39.99
+    },
+    {
+      "category": "food",
+      "title": "Organic Fruit Basket",
+      "picture": "https://i.ibb.co/ZxNgLY2/Food.png",
+      "categoryBackground": "#FF5733",
+      "cardBackground": "#FF5733",
+      "textColor": "#333333",
+      "buttonBackground": "#FF5733",
+      "description": "Enjoy a healthy snack with this organic fruit basket. Filled with a variety of fresh fruits.",
+      "price": 29.99
+    },
+    {
+      "category": "food",
+      "title": "missoula food bank",
+      "picture": "https://i.ibb.co/2KPV2nR/f.jpg",
+      "categoryBackground": "#FF5733",
+      "cardBackground": "#FF5733",
+      "textColor": "#333333",
+      "buttonBackground": "#FF5733",
+      "description": "Indulge in luxury with this gourmet chocolate box. Perfect for gifting or self-enjoyment.",
+      "price": 19.99
+    },
+    
+    {
+        "category": "food",
+        "title": "Helping People",
+        "picture": "https://i.ibb.co/sw7hjhk/f2.jpg",
+        "categoryBackground": "#FF5733",
+        "cardBackground": "#FF5733",
+        "textColor": "#333333",
+        "buttonBackground": "#FF5733",
+        "description": "Experience the rich flavors of our premium coffee beans. Sourced from the finest coffee estates.",
+        "price": 12.99
+      },
+      {
+        "category": "health",
+        "title": "Blood Donation",
+        "picture": "https://i.ibb.co/TbC4WzW/blood.png",
+        "categoryBackground": "#0052FFFF",
+        "cardBackground": "#0052FFFF",
+        "textColor": "#333333",
+        "buttonBackground": "#0052FFFF",
+        "description": "Begin your wellness journey with this yoga mat and accessories set. Ideal for yoga and meditation.",
+        "price": 34.99
+      },
+      {
+        "category": "education",
+        "title": "Children's Picture Book Set",
+        "picture": "https://i.ibb.co/5kbfL24/africa.jpg",
+        "categoryBackground": "#FF4433",
+        "cardBackground": "#FF4433",
+        "textColor": "#FF444A",
+        "buttonBackground": "#FF4433",
+        "description": "Inspire young minds with this set of beautifully illustrated children's picture books. Encourage reading and creativity.",
+        "price": 22.99
+      },
+      {
+        "category": "clothing",
+        "title": "Give the Gift of Warmth",
+        "picture": "https://i.ibb.co/w4fXXnD/warm.jpg",
+        "categoryBackground": "#FFC300",
+        "cardBackground": "#FFC300",
+        "textColor": "#333333",
+        "buttonBackground": "#FFC300",
+        "description": "Join us in making a difference by participating in our Clothing Donation Drive. Your unused or gently worn clothing items can bring warmth and comfort to those less fortunate.",
+        "price": 49.99
+      }
+
+  ]
+  
