@@ -1,3 +1,4 @@
+import swal from "sweetalert";
 
 
 const SingleCard = ({donation}) => {
@@ -5,7 +6,30 @@ const SingleCard = ({donation}) => {
 
 
    const handleAdd = () =>{
-      console.log(donation)
+    
+    const addDonationArray = [];
+    const donationItem = JSON.parse(localStorage.getItem('donation'));
+    if(!donationItem){
+         addDonationArray.push(donation)
+         localStorage.setItem('donation',JSON.stringify(addDonationArray))
+         swal("Good job!", "You Have Successfully Donated!", "success");
+    }
+    else{
+         const isExists = donationItem.find((donation) => donation.id === id);
+
+         if(!isExists){
+             addDonationArray.push(...donationItem,donation)
+             localStorage.setItem('donation',JSON.stringify(addDonationArray))
+             swal("Good job!", "You Have Successfully Donated!", "success");
+         }
+        
+         else{
+            swal("Error!", "Already Added!", "Error");
+         }
+    }
+
+
+
    }
 
 
