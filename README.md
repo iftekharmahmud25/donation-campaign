@@ -12,4 +12,8 @@ Currently, two official plugins are available:
      * Responsive Design : used css classes for responsive design
  * Banner :
      *  Header section : componants renders a header section with a title and search input field.
-     *   
+     *  Responsive Design : used css classes for responsive design.
+ * Single Donation Details :
+     * Route parameter : This componant retrives a route parameter using id .
+     * Display single item : It displays details of a single donation item using the singleCard.
+     * Conditional rendering : It handles the scenario where a matching donation item is not found .      
