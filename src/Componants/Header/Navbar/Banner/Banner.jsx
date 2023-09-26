@@ -1,6 +1,8 @@
 
 
 const Banner = () => {
+
+
     return (
         <div className='h-[50vh] '>
              <h1 className='text-center py-12 text-md md:text-2xl lg:text-3xl font-bold'>I Grow By Helping People In Need</h1>
@@ -15,3 +17,17 @@ const Banner = () => {
 };
 
 export default Banner;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
