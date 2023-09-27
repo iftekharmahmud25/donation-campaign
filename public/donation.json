@@ -17,10 +17,10 @@
         "foodCard": "#F8714726"
       },
       "textButtonBgColor": {
-        "healthTxt": "#0052FF26",
-        "educationTxt": "#FF444A26",
-        "clothingTxt": "#79C23F26",
-        "foodTxt": "#F8714726"
+        "healthText": "#0052FF26",
+        "educationText": "#FF444A26",
+        "clothingText": "#79C23F26",
+        "foodText": "#F8714726"
       },
       "description": "Track your blood pressure with this easy-to-use digital monitor. Stay healthy and monitor your heart health regularly.",
       "price": 29.99
@@ -43,10 +43,10 @@
         "foodCard": "#F8714726"
       },
       "textButtonBgColor": {
-        "healthTxt": "#0052FF26",
-        "educationTxt": "#FF444A26",
-        "clothingTxt": "#79C23F26",
-        "foodTxt": "#F8714726"
+        "healthText": "#0052FF26",
+        "educationText": "#FF444A26",
+        "clothingText": "#79C23F26",
+        "foodText": "#F8714726"
       },
       "description": "Stay active and monitor your fitness goals with this sleek fitness tracker watch. It counts steps, measures heart rate, and more.",
       "price": 49.99
@@ -69,10 +69,10 @@
         "foodCard": "#F8714726"
       },
       "textButtonBgColor": {
-        "healthTxt": "#0052FF26",
-        "educationTxt": "#FF444A26",
-        "clothingTxt": "#79C23F26",
-        "foodTxt": "#F8714726"
+        "healthText": "#0052FF26",
+        "educationText": "#FF444A26",
+        "clothingText": "#79C23F26",
+        "foodText": "#F8714726"
       },
       "description": "Enhance your child's learning with these colorful educational building blocks. Perfect for creative play and learning.",
       "price": 19.99
@@ -95,9 +95,9 @@
         "foodCard": "#F8714726"
       },
       "textButtonBgColor": {
-        "healthTxt": "#0052FF26",
-        "educationTxt": "#FF444A26",
-        "clothingTxt": "#79C23F26",
+        "healthText": "#0052FF26",
+        "educationText": "#FF444A26",
+        "clothingText": "#79C23F26",
         "foodTxt": "#F8714726"
       },
       "description": "Equip your student with the tools they need for online learning. This laptop is perfect for virtual classrooms.",
@@ -121,10 +121,10 @@
         "foodCard": "#F8714726"
       },
       "textButtonBgColor": {
-        "healthTxt": "#0052FF26",
-        "educationTxt": "#FF444A26",
-        "clothingTxt": "#79C23F26",
-        "foodTxt": "#F8714726"
+        "healthText": "#0052FF26",
+        "educationText": "#FF444A26",
+        "clothingText": "#79C23F26",
+        "foodText": "#F8714726"
       },
       "description": "Stay comfortable and stylish with this classic men's casual t-shirt. Available in various colors and sizes.",
       "price": 14.99
@@ -147,10 +147,10 @@
         "foodCard": "#F8714726"
       },
       "textButtonBgColor": {
-        "healthTxt": "#0052FF26",
-        "educationTxt": "#FF444A26",
-        "clothingTxt": "#79C23F26",
-        "foodTxt": "#F8714726"
+        "healthText": "#0052FF26",
+        "educationText": "#FF444A26",
+        "clothingText": "#79C23F26",
+        "foodText": "#F8714726"
       },
       "description": "Elevate your wardrobe with this beautiful floral dress. Perfect for special occasions and summer days.",
       "price": 39.99
@@ -173,10 +173,10 @@
         "foodCard": "#F8714726"
       },
       "textButtonBgColor": {
-        "healthTxt": "#0052FF26",
-        "educationTxt": "#FF444A26",
-        "clothingTxt": "#79C23F26",
-        "foodTxt": "#F8714726"
+        "healthText": "#0052FF26",
+        "educationText": "#FF444A26",
+        "clothingText": "#79C23F26",
+        "foodText": "#F8714726"
       },
       "description": "Enjoy a healthy snack with this organic fruit basket. Filled with a variety of fresh fruits.",
       "price": 29.99
@@ -199,10 +199,10 @@
         "foodCard": "#F8714726"
       },
       "textButtonBgColor": {
-        "healthTxt": "#0052FF26",
-        "educationTxt": "#FF444A26",
-        "clothingTxt": "#79C23F26",
-        "foodTxt": "#F8714726"
+        "healthText": "#0052FF26",
+        "educationText": "#FF444A26",
+        "clothingText": "#79C23F26",
+        "foodText": "#F8714726"
       },
       "description": "Indulge in luxury with this gourmet chocolate box. Perfect for gifting or self-enjoyment.",
       "price": 19.99
@@ -226,10 +226,10 @@
           "foodCard": "#F8714726"
         },
         "textButtonBgColor": {
-          "healthTxt": "#0052FF26",
-          "educationTxt": "#FF444A26",
-          "clothingTxt": "#79C23F26",
-          "foodTxt": "#F8714726"
+          "healthText": "#0052FF26",
+          "educationText": "#FF444A26",
+          "clothingText": "#79C23F26",
+          "foodText": "#F8714726"
         },
         "description": "Experience the rich flavors of our premium coffee beans. Sourced from the finest coffee estates.",
         "price": 12.99
@@ -252,10 +252,10 @@
           "foodCard": "#F8714726"
         },
         "textButtonBgColor": {
-          "healthTxt": "#0052FF26",
-          "educationTxt": "#FF444A26",
-          "clothingTxt": "#79C23F26",
-          "foodTxt": "#F8714726"
+          "healthText": "#0052FF26",
+          "educationText": "#FF444A26",
+          "clothingText": "#79C23F26",
+          "foodText": "#F8714726"
         },
         "description": "Begin your wellness journey with this yoga mat and accessories set. Ideal for yoga and meditation.",
         "price": 34.99
@@ -278,10 +278,10 @@
           "foodCard": "#F8714726"
         },
         "textButtonBgColor": {
-          "healthTxt": "#0052FF26",
-          "educationTxt": "#FF444A26",
-          "clothingTxt": "#79C23F26",
-          "foodTxt": "#F8714726"
+          "healthText": "#0052FF26",
+          "educationText": "#FF444A26",
+          "clothingText": "#79C23F26",
+          "foodText": "#F8714726"
         },
         "description": "Inspire young minds with this set of beautifully illustrated children's picture books. Encourage reading and creativity.",
         "price": 22.99
@@ -305,9 +305,9 @@
         },
         "textButtonBgColor": {
           "healthTxt": "#0052FF26",
-          "educationTxt": "#FF444A26",
-          "clothingTxt": "#79C23F26",
-          "foodTxt": "#F8714726"
+          "educationText": "#FF444A26",
+          "clothingText": "#79C23F26",
+          "foodText": "#F8714726"
         },
         "description": "Join us in making a difference by participating in our Clothing Donation Drive. Your unused or gently worn clothing items can bring warmth and comfort to those less fortunate.",
         "price": 49.99

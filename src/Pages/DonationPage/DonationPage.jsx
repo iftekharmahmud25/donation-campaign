@@ -5,32 +5,28 @@ import SingleCard from '../../Componants/Header/Navbar/Donations/SingleCard/Sing
 
 
 const DonationPage = () => {
-    const [donation, setDonation]  = useState({})
+    const [donation, setDonation] = useState({})
 
-    const {id} = useParams();
-    
-    
-
+    const { id } = useParams();
 
     const donations = useLoaderData();
 
-    
 
-    useEffect(()=>{
-          const findDonation = donations?.find((donation) => donation.id === id)
 
-          setDonation(findDonation)
-           
-    },[id,donations])
+    useEffect(() => {
+        const findDonation = donations?.find((donation) => donation.id === id)
 
-    
+        setDonation(findDonation)
+
+    }, [id, donations])
+
+
 
     return (
         <div>
-          
-                   <SingleCard donation={donation}></SingleCard>
-          
-            
+
+            <SingleCard donation={donation}></SingleCard>
+
 
         </div>
     );
